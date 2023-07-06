@@ -1,7 +1,7 @@
 # Born2beroot
 Born2beroot is a project in the 42 curriculum that aims to explore the fundamentals of system administration. The project involves installing and configuring a virtual machine, providing hands-on experience with various concepts and tools related to system administration.
 
-Project Overview
+## Project Overview
 The main objectives of the Born2beroot project are as follows:
 
 Virtualization: Set up and configure a virtual machine using a hypervisor such as VirtualBox or VMWare.
@@ -10,7 +10,9 @@ LVM (Logical Volume Manager): Utilize LVM to manage logical volumes, including c
 Command-Line Software: Install and configure various command-line tools and utilities required for system administration tasks.
 Protocols: Configure and secure protocols such as SSH (Secure Shell) for remote access to the system.
 System Security: Implement security measures including setting up sudo, configuring firewalls, and enforcing password policies to enhance system security.
-Installation and Configuration
+
+## Installation and Configuration
+
 To complete the Born2beroot project, follow these steps:
 
 Install a virtualization software such as VirtualBox or VMWare.
@@ -21,7 +23,9 @@ Configure LVM to manage logical volumes and allocate storage efficiently.
 Install and configure necessary command-line software and utilities for system administration tasks.
 Set up SSH for remote access to the system, ensuring secure communication.
 Implement security measures such as setting up sudo, configuring firewalls, and enforcing password policies.
-Documentation and Resources
+
+## Documentation and Resources
+
 Throughout the project, it is important to refer to relevant documentation and resources for each aspect of system administration. Here are some recommended resources:
 
 Official documentation and manuals for the virtualization software being used.
